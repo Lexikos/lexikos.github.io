@@ -1,0 +1,6 @@
+[submodule "v1"]
+	path = v1
+	url = git://github.com/Lexikos/AutoHotkey_L-Docs.git
+[submodule "v2"]
+	path = v2
+	url = git://github.com/Lexikos/AutoHotkey_L-Docs.git
